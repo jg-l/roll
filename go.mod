@@ -1,4 +1,4 @@
-module jg-l/roll
+module github.org/jg-l/roll
 
 go 1.22.0
 
