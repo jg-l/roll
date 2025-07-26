@@ -1,4 +1,4 @@
-module jgl/roll
+module jg-l/roll
 
 go 1.22.0
 
